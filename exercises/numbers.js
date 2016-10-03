@@ -1,2 +1,2 @@
-var example = 123456789;
+var example = 123456;
 console.log(example);
